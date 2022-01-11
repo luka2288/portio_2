@@ -14,9 +14,9 @@ $body-color: #7e7e8a;
 //
 
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Spartan:400,500,600,700,800,900|Caveat&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400&family=Spartan:wght@400&display=swap');
 $font-family-base: "Spartan", sans-serif;
-$headings-font-family: "Caveat", cursive;
+$headings-font-family: "Nunito", sans-serif;
 
 // Size
 $font-size-base: 1.125rem; // 18px
