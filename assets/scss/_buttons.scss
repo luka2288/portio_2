@@ -27,6 +27,14 @@
   }
 }
 
+.btn-contact {
+  color: $headings-color;
+  background-color: $secondary;
+  &:hover {
+    color: $headings-color;
+  }
+}
+
 .btn-zoom {
   transition: all 0.3s ease;
   transform: scale(1);
